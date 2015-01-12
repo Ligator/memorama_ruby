@@ -1,7 +1,5 @@
 require 'rubygems'  
 require 'gosu'  
-
-# otro comentario win
   
 class GameWindow < Gosu::Window  
   
@@ -136,6 +134,4 @@ end
 window = GameWindow.new  
 window.show 
 
-# Este es un comentario
-# Comentario Windows
-
+# asdf
