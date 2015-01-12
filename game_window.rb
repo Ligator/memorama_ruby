@@ -1,6 +1,6 @@
 require 'rubygems'  
 require 'gosu'  
-  
+
 class GameWindow < Gosu::Window  
   
   def initialize  
@@ -134,4 +134,3 @@ end
 window = GameWindow.new  
 window.show 
 
-# asdf
