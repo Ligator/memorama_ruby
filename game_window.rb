@@ -1,5 +1,7 @@
 require 'rubygems'  
 require 'gosu'  
+
+# otro comentario win
   
 class GameWindow < Gosu::Window  
   
