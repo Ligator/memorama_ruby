@@ -1,8 +1,6 @@
 require 'rubygems'  
 require 'gosu'  
 
-# otro comentario win
-  
 class GameWindow < Gosu::Window  
   
   def initialize  
@@ -137,5 +135,6 @@ window = GameWindow.new
 window.show 
 
 # Este es un comentario
-# Comentario Windows
+
+# Comentario MAC
 
